@@ -199,6 +199,4 @@ The entire system is built from scratch. Every component—ReAct loop, RAG pipel
     └── sample.pdf                  # Test PDF document
 ```
 
-## License
 
-MIT
