@@ -1,0 +1,33 @@
+# LLM Provider
+groq>=0.9.0
+
+# Web Search
+duckduckgo-search>=6.0.0
+trafilatura>=1.12.0
+
+# PDF Processing
+PyMuPDF>=1.24.0
+pdfplumber>=0.11.0
+
+# Embeddings & Retrieval
+sentence-transformers>=3.0.0
+faiss-cpu>=1.8.0
+rank-bm25>=0.2.2
+
+# Cross-Encoder Re-ranking
+# (included in sentence-transformers)
+
+# Text Processing
+tiktoken>=0.7.0
+
+# Configuration
+pydantic>=2.0.0
+pydantic-settings>=2.0.0
+python-dotenv>=1.0.0
+
+# Testing
+pytest>=8.0.0
+pytest-asyncio>=0.23.0
+
+# Utilities
+rich>=13.0.0
